@@ -1,7 +1,7 @@
 # Notebooks
 This directory contains a comprehensive Jupyter notebook demonstrating an end-to-end machine learning pipeline for predicting heart failure mortality using clinical data.
 
-# The notebook covers:
+The notebook covers:
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -47,6 +47,6 @@ Linear models generalized better than tree-based models under class-balanced con
 
 Feature selection improved interpretability without significant loss in performance
 
-# 📂 Notebook File
+📂 Notebook File
 
 Heart Failure Analysis.ipynb — Complete workflow from data exploration to model evaluation
