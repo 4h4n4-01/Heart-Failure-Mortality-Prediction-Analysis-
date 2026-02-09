@@ -47,6 +47,6 @@ Linear models generalized better than tree-based models under class-balanced con
 
 Feature selection improved interpretability without significant loss in performance
 
-📂 Notebook File
+## 📂 Notebook File
 
 Heart Failure Analysis.ipynb — Complete workflow from data exploration to model evaluation
