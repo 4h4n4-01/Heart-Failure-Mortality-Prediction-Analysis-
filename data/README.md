@@ -1,4 +1,4 @@
-# 📊 Dataset
+# Dataset
 
 This project uses the Heart Failure Clinical Records dataset, a real-world clinical dataset containing patient health attributes associated with heart failure outcomes.
 
