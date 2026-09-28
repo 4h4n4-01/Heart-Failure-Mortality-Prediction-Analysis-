@@ -49,4 +49,4 @@ Feature selection improved interpretability without significant loss in performa
 
 ## Notebook File
 
-Heart Failure Analysis.ipynb — Complete workflow from data exploration to model evaluation
+Heart Failure Analysis.ipynb: the complete workflow from data exploration to model evaluation
